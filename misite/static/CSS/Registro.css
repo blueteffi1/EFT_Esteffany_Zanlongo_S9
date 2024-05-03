@@ -1,0 +1,20 @@
+#Descripcion {
+    resize: none;
+
+}
+
+body{
+    background-image: url("../imagenes/fondoooo.png");   
+}
+
+.bg-white {
+  background-color: lightgray;
+}
+
+.centrar{
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+

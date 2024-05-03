@@ -1,0 +1,34 @@
+html,body {
+    background-image: url(../IMG/istockphoto-1170275727-612x612.jpg);
+    margin: 0;  
+    padding: 0; 
+    
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+    background-image: url(../IMG/fondo-acuarela-rosa-pintado-mano-detallado_1048-17039.avif);
+    color: rgb(7, 6, 6);
+    border-radius: 20px 20px 0 0;
+    text-align: center;
+}
+
+.btn-primary {
+    background-color:  #ed72bc;
+    border-color: #ed72bc;
+}
+
+.btn-primary:hover {
+    background-color:  #ed72bc;
+    border-color: #ed72bc;
+}
+.navbar-1{
+    background-color: rgb(254, 186, 229);
+}   
+    
+
